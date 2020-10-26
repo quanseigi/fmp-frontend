@@ -6,6 +6,10 @@ import Home from './component/Home';
 import ShareMovie from './component/ShareMovie';
 
 class App extends Component {
+  componentDidMount(){
+    document.title = "FunnyMovies"
+  }
+
   render() {
     return (
       <Router>

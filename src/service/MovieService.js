@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export const SESSION_TOKEN = 'authenticatedToken'
-const API_URL = 'http://localhost:8080/api/movie';
+const API_URL = 'http://fmpbackend-env.eba-wd4hhfq8.us-east-2.elasticbeanstalk.com/api/movie';
 const YOUTUBE_API_KEY = "AIzaSyCSVlchlJ0pjF0x6cdIfuGLoc2Xgsspr6c";
 const YOUTUBE_API_URL = "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=";
 
