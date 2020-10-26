@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'https://dyrzzn32ttw8n.cloudfront.net/api/user'
+const API_URL = 'https://FmpBackend1-env.eba-v9nd4yhg.us-east-2.elasticbeanstalk.com/api/user'
 export const SESSION_USER_NAME = 'authenticatedUser'
 export const SESSION_TOKEN = 'authenticatedToken'
 
