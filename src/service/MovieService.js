@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export const SESSION_TOKEN = 'authenticatedToken'
-const API_URL = 'https://d1uap5y8ankqpj.cloudfront.net/api/movie';
+const API_URL = 'https://dyrzzn32ttw8n.cloudfront.net/api/movie';
 const YOUTUBE_API_KEY = "AIzaSyCSVlchlJ0pjF0x6cdIfuGLoc2Xgsspr6c";
 const YOUTUBE_API_URL = "https://www.googleapis.com/youtube/v3/videos?part=snippet&id=";
 
